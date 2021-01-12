@@ -1,10 +1,8 @@
 # mini_microservices_book_aplication
-5.day tasks
-Day3 və Day4 tamamlanmalıdır.
-Extra task
-Microservisə update_price funksiyası əlavə olunmalıdır.
-update_price verilən id-yə uyğun kitabın qiymətini yeniləməlidir.
-id linkdə göstəriləcək, yeni qiymət isə data ilə göndəriləcək.
+
+* Microservisə update_price funksiyası əlavə olunmalıdır.
+* update_price verilən id-yə uyğun kitabın qiymətini yeniləməlidir.
+* id linkdə göstəriləcək, yeni qiymət isə data ilə göndəriləcək.
 
 
 * Microservisə 2 funksiya əlavə olunmalıdır. (show_book, remove_books)
